@@ -5,5 +5,5 @@ The user clicks “Upload image” and selects an image using an input dialog. A
 
 ![Alt text](/public/assets/js-detection-interence-zebra.png "")
 
-### Acknowledgements
+### Acknowledgements:
 This code is part of the HuggingFace JS tutorials available at https://huggingface.co/docs/transformers.js/en/tutorials/vanilla-js.
